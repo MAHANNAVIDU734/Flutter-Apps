@@ -15,6 +15,9 @@ class _BottomBarState extends State<BottomBar> {
       appBar: AppBar(
         title: Text("My Tickets"),
       ),
+      body: Text(
+        "My Body"
+      ),
     );
   }
 }
